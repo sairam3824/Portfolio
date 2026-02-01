@@ -98,16 +98,10 @@ To customize this portfolio for your own use:
 
 ## Contact
 
-- **LinkedIn**: [sairam-maruri](https://www.linkedin.com/in/sairam-maruri/)
-- **GitHub**: [sairam3824](https://github.com/sairam3824)
-- **Email**: [Contact through website](https://sairam.orravyn.info)
+- **LinkedIn**: [https://www.linkedin.com/in/sairam-maruri/](https://www.linkedin.com/in/sairam-maruri/)
+- **Email**: [sairam.maruri@gmail.com](sairam.maruri@gmail.com)
 
 ## License
 
 This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
-
-- Inspiration from modern portfolio design trends
-
----
